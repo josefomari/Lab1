@@ -19,4 +19,3 @@ sist i programmet. Gör gärna en tom rad emellan för att skilja från output o
 Exempel output för input ”29535123p48723487597645723645”:
 Total = 5836428677242
 
-Uppgiften ska lösas individuellt.
